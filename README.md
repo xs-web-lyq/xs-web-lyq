@@ -11,10 +11,9 @@
 
 * 目前在～～～(不告诉你🤪)
 * 目前在～～～(某宿舍写代码🤪)
-
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
  🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
 ### Github 活跃度
 [![](https://activity-graph.herokuapp.com/graph?username=xs-web-lyq&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![xs-web-lyq's github stats](https://github-readme-stats.vercel.app/api?username=xs-web-lyq&show_icons=true&theme=vue)
+[!xs-web-lyq's github stats](https://github-readme-stats.vercel.app/api?username=xs-web-lyq&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xs-web-lyq)
