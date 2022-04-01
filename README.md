@@ -7,7 +7,7 @@
 * 打球🏓、🏀也是一个不错的选择
 * 一个写代码的，但想拥有有趣的灵魂。。🤔
 * 喜欢研究一些新鲜的事物，喜欢音乐🎶，看电影.📖
-
+ 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
 * 目前在～～～(不告诉你🤪)
 * 目前在～～～(某宿舍写代码🤪)
 
@@ -17,11 +17,10 @@
 [![Github](https://img.shields.io/github/followers/xs-web-lyq?label=Github&style=social)](https://github.com/xs-web-lyq)
 
 ![xs-web-lyq's github stats](https://github-readme-stats.vercel.app/api?username=xs-web-lyq&show_icons=true&theme=vue)
-<a href="https://github.com/xs-web-lhdd">
+<hr/>
+<a href="https://github.com/xs-web-lyq">
   <img align="center" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xs-web-lyq&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&layout=compact&theme=tokyonight&show_icons=true&hide_title=true" />
 </a>
-
- 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
 ### Github 活跃度
 [![](https://activity-graph.herokuapp.com/graph?username=xs-web-lyq&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
