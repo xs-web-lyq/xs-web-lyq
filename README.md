@@ -18,9 +18,11 @@
 
 ![xs-web-lyq's github stats](https://github-readme-stats.vercel.app/api?username=xs-web-lyq&show_icons=true&theme=vue)
 <hr/>
-<a href="https://github.com/xs-web-lyq">
+<a href="https://github.com/xs-web-lyq" float = "left">
   <img align="center" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xs-web-lyq&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&layout=compact&theme=tokyonight&show_icons=true&hide_title=true" />
 </a>
+
+<hr/>
 ### Github 活跃度
 [![](https://activity-graph.herokuapp.com/graph?username=xs-web-lyq&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
