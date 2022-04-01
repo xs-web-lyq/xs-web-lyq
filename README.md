@@ -5,7 +5,6 @@
 * 我想成为大神，但现在我很菜。。🤔
 * 喜欢研究一些新鲜的事物，喜欢音乐🎶，📖
 * 打球🏓、🏀也是一个不错的选择
-* 我是　[刘永奇](http://mcxiaobing.gitee.io) :blush:
 * 一个写代码的，但想拥有有趣的灵魂。。🤔
 * 喜欢研究一些新鲜的事物，喜欢音乐🎶，看电影.📖
 
@@ -13,9 +12,9 @@
 * 目前在～～～(某宿舍写代码🤪)
 
 ## Follow Me
-![访问个人主页数量](https://komarev.com/ghpvc/?username=xs-web-lhdd&color=green)
-[![Github](https://img.shields.io/github/followers/xs-web-lhdd?label=Github&style=social)](https://github.com/yexiyue)
-[![Github](https://img.shields.io/github/followers/xs-web-lhdd?label=Github&style=social)](https://github.com/xs-web-lhdd)
+![访问个人主页数量](https://komarev.com/ghpvc/?username=xs-web-lyq&color=green)
+[![Github](https://img.shields.io/github/followers/xs-web-lyq?label=Github&style=social)](https://github.com/yexiyue)
+[![Github](https://img.shields.io/github/followers/xs-web-lyq?label=Github&style=social)](https://github.com/xs-web-lhdd)
 
 ![xs-web-lyq's github stats](https://github-readme-stats.vercel.app/api?username=xs-web-lyq&show_icons=true&theme=vue)
 
