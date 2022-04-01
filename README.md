@@ -12,9 +12,14 @@
 * 目前在～～～(不告诉你🤪)
 * 目前在～～～(某宿舍写代码🤪)
 
- 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
-### Github 活跃度
-[![](https://activity-graph.herokuapp.com/graph?username=xs-web-lyq&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Follow Me
+![访问个人主页数量](https://komarev.com/ghpvc/?username=xs-web-lhdd&color=green)
+[![Github](https://img.shields.io/github/followers/xs-web-lhdd?label=Github&style=social)](https://github.com/yexiyue)
+[![Github](https://img.shields.io/github/followers/xs-web-lhdd?label=Github&style=social)](https://github.com/xs-web-lhdd)
+
 ![xs-web-lyq's github stats](https://github-readme-stats.vercel.app/api?username=xs-web-lyq&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xs-web-lyq)
+ 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
+### Github 活跃度
+[![](https://activity-graph.herokuapp.com/graph?username=xs-web-lyq&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
