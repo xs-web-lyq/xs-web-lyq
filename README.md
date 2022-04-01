@@ -11,6 +11,14 @@
 * 目前在～～～(不告诉你🤪)
 * 目前在～～～(某宿舍写代码🤪)
 
+<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
+<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
+<a href="https://sass-lang.com"><code><img height="20" src="./images/sass.png"></code></a>
+
+<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
+
+<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=xs-web-lyq&color=green)
 [![Github](https://img.shields.io/github/followers/xs-web-lyq?label=Github&style=social)](https://github.com/xs-web-lyq)
