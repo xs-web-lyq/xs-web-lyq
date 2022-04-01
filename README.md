@@ -1,6 +1,3 @@
-
-我想成为大神，但现在我很菜。
-
 <h1 align="center"> Hello There 👋 </h1>
 
 
@@ -16,5 +13,4 @@
 * 目前在～～～(某宿舍写代码🤪)
 
 
-* 如果你想要找到我，欢迎光临我的博客 [Jankin's Blog](https://jankinghuang.github.io/) 🎊🎊🎊🎊🎊🎊
-* 如果你想要找到我，欢迎光临我的博客 [David's Blog](https://weibo.com/mcxiaobing) 🎊🎊🎊🎊🎊🎊
+ 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
