@@ -22,3 +22,10 @@
  🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
 ### Github 活跃度
 [![](https://activity-graph.herokuapp.com/graph?username=xs-web-lyq&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="https://github.com/xs-web-lhdd">
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=xs-web-lhdd&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide=contribs" />
+</a>
+<a href="https://github.com/xs-web-lhdd">
+  <img align="center" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xs-web-lhdd&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&layout=compact&theme=tokyonight&show_icons=true&hide_title=true" />
+</a>
