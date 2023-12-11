@@ -10,6 +10,8 @@
 * 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊
 * 目前在～～～(不告诉你🤪)
 * 目前在～～～(某宿舍写代码🤪)
+* qq:3235951041
+* phone 17839109890
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=xs-web-lyq&color=green)
