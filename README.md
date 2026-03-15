@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* 我是　[刘永奇](https://jankinghuang.github.io) :blush:
+* 我是　[茁壮成长的小冬瓜](https://jankinghuang.github.io) :blush:
 * 我想成为大神，但现在我很菜。。🤔
 * 喜欢研究一些新鲜的事物，喜欢音乐🎶，📖
 * 打球🏓、🏀也是一个不错的选择
